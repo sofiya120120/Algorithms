@@ -21,4 +21,5 @@ int main() {
     for (auto elem : a) {
         cout << elem << " ";
     }
+    return 0;
 }
